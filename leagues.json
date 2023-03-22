@@ -1,0 +1,44 @@
+{
+  "leagues": [
+    {
+      "name": "Greek Legends League",
+      "timer_data": {
+        "timer_x": 945,
+        "timer_y": 80,
+        "timer_w": 8,
+        "timer_h": 11
+      },
+      "map_data": {
+        "map_x": 1694,
+        "map_y": 853,
+        "map_w": 215,
+        "map_h": 215
+      },
+      "widths_between_digits": {
+        "first": 9,
+        "second": 13,
+        "third": 9
+      }
+    },
+    {
+      "name": "Ultraliga",
+      "timer_data": {
+        "timer_x": 945,
+        "timer_y": 77,
+        "timer_w": 8,
+        "timer_h": 11
+      },
+      "map_data": {
+        "map_x": 1649,
+        "map_y": 808,
+        "map_w": 258,
+        "map_h": 259
+      },
+      "widths_between_digits": {
+        "first": 9,
+        "second": 13,
+        "third": 9
+      }
+    }
+  ]
+}
